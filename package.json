@@ -1,0 +1,23 @@
+{
+  "name": "student-management-rest-api",
+  "version": "1.0.0",
+  "description": "**Objective:** Develop backend services using Node.js and Express.js.",
+  "homepage": "https://github.com/hareshgavit189/Student-Management-REST-API#readme",
+  "bugs": {
+    "url": "https://github.com/hareshgavit189/Student-Management-REST-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hareshgavit189/Student-Management-REST-API.git"
+  },
+  "license": "ISC",
+  "author": "Haresh Gavit",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
