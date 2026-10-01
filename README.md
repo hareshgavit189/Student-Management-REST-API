@@ -27,6 +27,28 @@
 * **JSON**
 
 ---
+## Table of Contents
+
+* [Project Overview](#project-overview)
+* [Architecture Overview](#architecture-overview)
+* [Tech Stack](#tech-stack)
+* [Project Structure](#project-structure)
+* [Prerequisites](#prerequisites)
+* [Quick Start](#quick-start)
+* [Express Server Setup](#express-server-setup)
+* [Student Data Model](#student-data-model)
+* [API Reference](#api-reference)
+* [CRUD Operations](#crud-operations)
+* [Middleware](#middleware)
+* [Postman Testing](#postman-testing)
+* [HTTP Methods & Status Codes](#http-methods--status-codes)
+* [API Request & Response Examples](#api-request--response-examples)
+* [Project Workflow](#project-workflow)
+* [Key Features](#key-features)
+* [Learning Outcomes](#learning-outcomes)
+* [Practical Checklist](#practical-checklist)
+* [Conclusion](#conclusion)
+
 
 ## Project Overview
 
