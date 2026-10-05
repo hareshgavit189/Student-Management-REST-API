@@ -100,7 +100,7 @@ app.put('/students/:id', (req,res)=>{
     student.age = age;
     student.course = course;
 
-    res.json({
+    res.status(200).json({
         success: true,
         message: "Student Updated Successfully.",
         data: student 
